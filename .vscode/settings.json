@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "__config": "c",
+        "vector": "cpp",
+        "utility": "cpp",
+        "ios": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
